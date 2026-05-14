@@ -116,7 +116,7 @@ These datasets contain:
 ## Step 1 — Clone Repository
 
 ```bash
-git clone https://github.com/your-username/formula-one-live-tracker.git
+git clone https://github.com/adishbalachandran/Formula_One_Live_Tracker.git
 ```
 
 ---
